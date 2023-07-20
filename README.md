@@ -1,1 +1,1 @@
-This is a simple Python script for plotting groundwater model 2d structure from MODFLOW.
+This is a simple Python script for plotting 2D structures of groundwater models from MODFLOW.
